@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>prefix</key>
+		<string>na</string>
+		<key>label</key>
+		<string>な</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>ni</string>
+		<key>label</key>
+		<string>に</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>nu</string>
+		<key>label</key>
+		<string>ぬ</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>ne</string>
+		<key>label</key>
+		<string>ね</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>no</string>
+		<key>label</key>
+		<string>の</string>
+	</dict>
+</array>
+</plist>

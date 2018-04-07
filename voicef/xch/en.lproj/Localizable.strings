@@ -1,0 +1,48 @@
+"menu"    = "Menu";
+
+"favorite"          = "Favorite";
+"bookmark"          = "Bookmark";
+"history"           = "History";
+
+"search"            = "Search";
+"search_syllabary"  = "Syllabary Order";
+"search_keyword"    = "Search Keyword";
+
+"contents"          = "Contents";
+"site_list"         = "Site List";
+"featured_apps"     = "Featured Apps";
+
+"clear"             = "Clear";
+
+//-- EULA --//
+"eula_title"        = "EULA";
+"eula_agree"        = "Agree";
+
+//-- Browser --//
+// ActionSheet
+"action_sheet_bookmark" = "Add to Bookmark";
+"action_sheet_report"   = "Report";
+"action_sheet_cancel"   = "Cancel";
+
+// Form
+"form_add"      = "Add";
+"form_edit"     = "Edit";
+"form_cancel"   = "Cancel";
+
+// Setting View
+"ourapps"       = "Our Apps";
+"setting"       = "Settings";
+"browser"       = "Browser";
+"others"        = "Others";
+"fast_loading"  = "Fast Loading";
+"open_source"   = "Open Source Licenses";
+"review"        = "Review";
+"version"       = "Version";
+"invite_friend" = "Invite Friend";
+
+//-- Error Message --//
+"error_msg_not_reachable"   = "Please check your Network Setting.";
+"error_msg_keyword_short"   = "Please enter two or more characters.";
+
+// CoachMarks
+"coachmarks_caption"  = "☆ How to use ☆ \n1: Open Left side MENU. \n2: Select \"Syllabary Order\", and find your favorite Actress. \n3: Open Contents in Browser, you can add to \"Favorite\" on RSS Button.\n\n Notice! \n\"Favorite\" can be refreshed by pulling the Screen.";

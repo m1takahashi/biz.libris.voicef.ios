@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>prefix</key>
+		<string>ha</string>
+		<key>label</key>
+		<string>は</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>hi</string>
+		<key>label</key>
+		<string>ひ</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>fu</string>
+		<key>label</key>
+		<string>ふ</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>he</string>
+		<key>label</key>
+		<string>へ</string>
+	</dict>
+	<dict>
+		<key>prefix</key>
+		<string>ho</string>
+		<key>label</key>
+		<string>ほ</string>
+	</dict>
+</array>
+</plist>

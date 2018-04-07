@@ -1,0 +1,53 @@
+"menu"    = "MENU";
+
+//"entry_type_new"    = "新着";
+//"entry_type_daily"  = "直近24時間";
+//"entry_type_weekly" = "週間トピック";
+"favorite"          = "お気に入り";
+"bookmark"          = "ブックマーク";
+"history"           = "履歴";
+
+"search"            = "さくいん・検索";
+"search_syllabary"  = "五十音順 検索";
+"search_keyword"    = "キーワード 検索";
+
+"contents"          = "記事";
+"site_list"         = "サイト選択";
+"featured_apps"     = "おすすめアプリ";
+
+
+"clear"             = "クリア";
+
+//-- EULA --//
+"eula_title"        = "利用規約";
+"eula_agree"        = "同意する";
+
+//-- Browser --//
+// ActionSheet
+"action_sheet_bookmark" = "ブックマークに追加";
+"action_sheet_report"   = "違反報告";
+"action_sheet_cancel"   = "キャンセル";
+
+// Form
+"form_add"      = "追加";
+"form_edit"     = "編集";
+"form_cancel"   = "キャンセル";
+
+
+// Setting View
+"ourapps"       = "Our Apps";
+"setting"       = "設定";
+"browser"       = "ブラウザ";
+"others"        = "その他";
+"fast_loading"  = "高速読み込み";
+"open_source"   = "オープンソースライセンス";
+"review"        = "評価する";
+"version"       = "バージョン";
+"invite_friend" = "友達におしえる";
+
+//-- Error Message --//
+"error_msg_not_reachable"   = "ネットワークが利用できません。設定を確認して下さい。";
+"error_msg_keyword_short"   = "2文字以上で入力して下さい。";
+
+// CoachMarks
+"coachmarks_caption" = "☆☆使い方☆☆ \n1.左上のメニューボタンでメニューを開きます \n\n2.五十音検索から好きな声優を探します \n\n3.ブラウザでコンテンツが開いたら、RSS追加ボタン（右から2番目）からお気に入りへ追加できます \n\n☆☆☆☆ \n記事は引っ張って更新することができます";
