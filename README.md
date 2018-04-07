@@ -7,7 +7,7 @@ Simple RSS Reader for iOS
  * RSS Reader
  * Bookmark
 
-## Overview
+## System requirements
  * iOS Application
  * Objective-C
  * xcode 7.1
